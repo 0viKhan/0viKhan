@@ -56,7 +56,8 @@
 
 <p align="center">
   📫 Reach me at: <strong>hossain15-5176@diu.edu.bd</strong><br/>
-  🌐 [GitHub](https://github.com/0viKhan) · [LinkedIn](https://www.linkedin.com/in/mannan-hossain-3a8923276/)
+  🌐 [GitHub](https://github.com/0viKhan) ·
+  [LinkedIn](https://www.linkedin.com/in/mannan-hossain-3a8923276/)
 </p>
 
 -
