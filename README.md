@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Mannan+Hossain;Flutter+Enthusiast+🚀;Machine+Learning+Explorer+🧠;Apps+with+Purpose,+Code+with+Heart❤️&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Mannan+Hossain;Flutter+Developer;Building+Clean+and+Scalable+Apps;Passionate+about+Mobile+UI/UX;Crafting+Reliable+Cross-Platform+Solutions&center=true&width=500&height=45">
 </p>
+
 
 ---
 
